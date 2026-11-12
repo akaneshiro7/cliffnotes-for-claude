@@ -14,6 +14,12 @@ Each skill takes the core method of a book and rewrites it, in my own words, as 
 | [`dynamic-explanation`](skills/dynamic-explanation/SKILL.md) | Unscripted moments: interviews, meetings, Q&As. Build strands, practise out loud, and prepare for the questions. |
 | [`quick-explanations`](skills/quick-explanations/SKILL.md) | Everyday emails, messages and quick calls. Bottom line up front, easy to skim, easy to reply to. |
 
+### 📗 *The Mom Test* by Rob Fitzpatrick (2013)
+
+| Skill | Use it for |
+|---|---|
+| [`customer-conversations`](skills/customer-conversations/SKILL.md) | Customer, client and stakeholder conversations that get the truth: ask about their life and past behaviour rather than your idea, avoid compliments and fluff, and push for real commitments. |
+
 ## Using these skills
 
 Each folder under `skills/` holds a `SKILL.md`. To use one:
