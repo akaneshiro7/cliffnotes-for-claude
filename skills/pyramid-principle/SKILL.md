@@ -1,13 +1,16 @@
 ---
 name: pyramid-principle
-description: Use when structuring or reviewing any business document, email, memo, deck, recommendation or analysis so the answer comes first and every point logically supports it (Minto Pyramid Principle).
+description: Use to build or check the logical structure of a business argument (recommendation, memo, analysis, deck storyline, slide titles, issue tree) so the answer comes first and every point supports it.
 ---
 
 # The Pyramid Principle: answer first, logic underneath
 
 Based on Barbara Minto's *The Minto Pyramid Principle: Logic in Writing, Thinking and Problem Solving* (3rd ed., 2010). It is the standard way consulting firms and banks structure written and spoken communication. Use it for memos, emails to senior people, decks and slide titles, investment or client recommendations, status updates, and for structuring an analysis before any work starts.
 
-Pairs with `explain-clearly` (overall craft of explanation) and `quick-explanations` (email mechanics).
+**Scope.** This skill owns the *logic*: what the answer is, which points support it, how they're grouped and ordered, and how the structure shows up in headings and slide titles. Other skills handle the rest:
+- `explain-clearly`: audience, research, plain language, tightening and delivery. Use it alongside this skill for long documents and talks. When the piece makes a business recommendation, this skill decides the structure.
+- `quick-explanations`: the mechanics of short emails and messages. For a short recommendation email, this skill supplies the answer and the key line, and that skill handles the subject line, length and formatting.
+- `high-stakes-conversations`: when the hard part is the emotion, not the logic.
 
 ---
 
@@ -140,7 +143,7 @@ Use the same logic before you write, when scoping an analysis:
 - **Decks:** each slide has an **action title** that states its conclusion in one full sentence ("EMEA margin fell 300bp, almost all of it from freight"). Read only the titles in order and they should tell the whole story as a pyramid. The body of the slide proves the title and nothing else.
 - **Executive summary / storyline page:** governing thought + key line, each a full sentence.
 - **Transitions:** use them to show where the reader is in the structure (look back at what was just covered, look ahead to the next key point), and keep them short.
-- **Emails:** the answer or ask in the first line, then the key line as a short numbered or bulleted list, then support only as needed.
+- **Emails:** the governing thought goes in the first line and the key line becomes the bullets. Use `quick-explanations` for the rest of the email mechanics.
 
 ---
 

@@ -7,7 +7,11 @@ description: Use when drafting or improving a work email, message, notice or sho
 
 Based on Ros Atkins' *The Art of Explanation* (2023). Most everyday explaining happens in short calls, meetings, emails and messages, where the full Seven Steps would be overkill. Good habits do the work here. It applies to work and practical communication, not chats with friends and family.
 
-For in-depth pieces use `explain-clearly`. For interviews and Q&As use `dynamic-explanation`.
+**Scope.** This skill owns the mechanics of short messages: getting them opened, read, skimmed and answered. Other skills handle the rest:
+- `pyramid-principle`: if the message makes a recommendation or argument, use it to work out the answer and its two or three supporting points first. They become the first line and the bullets.
+- `high-stakes-conversations`: if the message is tense, like pushback, a complaint or a mistake.
+- `explain-clearly`: for long, in-depth pieces.
+- `dynamic-explanation`: for interviews and Q&A.
 
 ---
 

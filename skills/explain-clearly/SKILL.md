@@ -1,13 +1,16 @@
 ---
 name: explain-clearly
-description: Use when writing or improving a prepared explanation (report, essay, briefing, presentation or video script, speech, pitch, in-depth explainer) so it is simple, essential, and easy to follow.
+description: Use when writing or improving a prepared explanation meant to help people understand something (explainer, essay, talk, speech, video script, training, in-depth briefing): audience, research, plain language, story and delivery.
 ---
 
 # Explain clearly: the Seven-Step method
 
 A method for building prepared explanations, based on Ros Atkins' *The Art of Explanation* (2023). Use it for any explanation where there is time to prepare and the explainer controls the words: essays, reports, briefings, presentations, speeches, scripts, pitches, long explainers, documentation of a concept.
 
-For unscripted situations (interviews, meetings, Q&A) use `dynamic-explanation`. For emails, messages and quick calls use `quick-explanations`.
+**Scope.** This skill owns the craft of explaining: the audience, finding and distilling the material, plain language, story, tightening and delivery. Other skills handle the rest:
+- `pyramid-principle`: the logical structure when the piece argues for a decision or recommendation (a memo, analysis or deck storyline). In that case, use pyramid structure in place of the story structures in Step 4, and use this skill for everything else.
+- `dynamic-explanation`: unscripted situations like interviews, meetings and Q&A.
+- `quick-explanations`: emails, messages and quick calls.
 
 **Match the effort to the job.** A three-paragraph explainer in chat gets the steps run quickly in your head. A keynote or a long report gets every step done explicitly. Either way, the ten tests below always apply.
 
@@ -79,7 +82,7 @@ Write short answers (a sentence or two each):
 - `NOT SURE`: material you haven't placed yet
 - `HIGH IMPACT`: striking facts, quotes or images to use at the start and end
 
-**Story.** Information alone rarely holds attention. A story makes people want to know what happens next. Decide:
+**Story.** (If the piece is a business recommendation, build it as a pyramid with `pyramid-principle` instead, then come back here for Steps 5–7.) Information alone rarely holds attention. A story makes people want to know what happens next. Decide:
 - **Purpose**: what the audience should understand by the end.
 - **Story**: the journey that gets them there.
 - **How you'll tell it**: the structure.

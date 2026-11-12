@@ -1,6 +1,6 @@
 ---
 name: dynamic-explanation
-description: Use to prepare for explaining yourself without a script: job interviews, meetings, pitches with Q&A, media interviews, panels, staff briefings, or tough conversations.
+description: Use to prepare the content for explaining yourself live without a script, such as job interviews, meetings, pitches with Q&A, panels or staff briefings, so you can answer any question fluently.
 ---
 
 # Dynamic explanation: preparing for situations you can't script
@@ -9,7 +9,12 @@ Based on Ros Atkins' *The Art of Explanation* (2023). Use it when someone has to
 
 You can't control what you're asked, but you can control how ready you are. The aim is to make most of the decisions in advance (what to include, how pieces link, how to phrase the hard parts) so that in the moment your mind is free to listen and respond.
 
-For scripted pieces use `explain-clearly`. For emails and quick calls use `quick-explanations`.
+**Scope.** This skill owns *knowing your material well enough to answer anything live*. Other skills handle the rest:
+- `high-stakes-conversations`: when the challenge is emotional or interpersonal, like conflict, pushback or tough feedback, rather than mastering content.
+- `customer-conversations`: when the goal is to *learn* from the other person, as in discovery calls, rather than explain.
+- `pyramid-principle`: to shape each answer (answer first, then two or three supporting points).
+- `explain-clearly`: for scripted pieces.
+- `quick-explanations`: for emails and quick calls.
 
 ---
 

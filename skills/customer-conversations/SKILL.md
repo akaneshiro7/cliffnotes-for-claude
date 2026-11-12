@@ -7,6 +7,8 @@ description: Use when planning, running or reviewing customer, client, user or s
 
 Based on Rob Fitzpatrick's *The Mom Test* (2013). People, especially kind ones, will tell you what they think you want to hear. This method gets real information out of conversations anyway.
 
+**Scope.** This skill is for conversations where your goal is to *learn* from the other person. For *explaining* yourself live, use `dynamic-explanation`. For tense or emotional conversations, use `high-stakes-conversations`.
+
 Use it for customer discovery and startup idea validation, but also for: client discovery calls, gathering requirements from stakeholders, user research, scoping what a manager or client actually needs, and checking whether a pitch has real interest behind it.
 
 The name comes from the idea that a good question works even on your mom, who loves you and will lie to protect your feelings. If a question can't be answered with a polite lie, it passes.

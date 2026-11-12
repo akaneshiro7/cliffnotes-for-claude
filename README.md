@@ -32,6 +32,21 @@ Each skill takes the core method of a book and rewrites it, in my own words, as 
 |---|---|
 | [`high-stakes-conversations`](skills/high-stakes-conversations/SKILL.md) | Pushback, tough feedback, conflict, raising a mistake. Start with heart, make it safe, master your stories, STATE your path, AMPP listening, and finish with who does what by when. |
 
+## Which skill should I use?
+
+Each skill has one job. Several can work together on the same task.
+
+| If you need to… | Use |
+|---|---|
+| Work out the **answer and the logic** of a recommendation, memo, analysis or deck storyline | `pyramid-principle` |
+| Help people **understand** something in depth (an explainer, talk, essay or training) | `explain-clearly` |
+| Write a **short email or message** that gets read and answered | `quick-explanations` |
+| Know your material well enough to **answer anything live** (interviews, Q&A, meetings) | `dynamic-explanation` |
+| **Learn the truth** from a client, customer or stakeholder | `customer-conversations` |
+| Handle a **tense or emotional** conversation (pushback, feedback, conflict) | `high-stakes-conversations` |
+
+Common combinations: a recommendation email uses `pyramid-principle` for the content and `quick-explanations` for the format. A big presentation uses `pyramid-principle` for the storyline and `explain-clearly` for the language and delivery. Pushing back on your MD uses `high-stakes-conversations` for how to say it and `pyramid-principle` for what you're proposing.
+
 ## Using these skills
 
 Each folder under `skills/` holds a `SKILL.md`. To use one:

@@ -9,7 +9,10 @@ Based on *Crucial Conversations: Tools for Talking When Stakes Are High* by Patt
 
 A conversation becomes **crucial** when three things are true: **the stakes are high, opinions differ, and emotions are strong**. Ironically, these are the conversations we handle worst: we either go quiet or come on too strong. Use this skill for: disagreeing with a senior person, pushing back on a deadline or a workload, giving or receiving tough feedback, raising a mistake or an ethical concern, conflict with a teammate, salary or performance talks, and difficult personal conversations.
 
-Pairs with `pyramid-principle` for structuring the message itself.
+**Scope.** This skill owns the emotional and interpersonal side: safety, motives, stories and listening. Other skills handle the rest:
+- `pyramid-principle`: the logic of what you're proposing.
+- `dynamic-explanation`: preparing the content when you'll face lots of questions.
+- `quick-explanations`: if the conversation happens over email or chat, for the message mechanics.
 
 ---
 
