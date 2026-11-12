@@ -20,6 +20,18 @@ Each skill takes the core method of a book and rewrites it, in my own words, as 
 |---|---|
 | [`customer-conversations`](skills/customer-conversations/SKILL.md) | Customer, client and stakeholder conversations that get the truth: ask about their life and past behaviour rather than your idea, avoid compliments and fluff, and push for real commitments. |
 
+### 📙 *The Minto Pyramid Principle* by Barbara Minto (3rd ed., 2010)
+
+| Skill | Use it for |
+|---|---|
+| [`pyramid-principle`](skills/pyramid-principle/SKILL.md) | Structuring memos, emails, decks and analyses answer-first. Situation, complication, question, answer; MECE groupings; action titles; issue trees. |
+
+### 📕 *Crucial Conversations* by Patterson, Grenny, McMillan & Switzler (2nd ed., 2012)
+
+| Skill | Use it for |
+|---|---|
+| [`high-stakes-conversations`](skills/high-stakes-conversations/SKILL.md) | Pushback, tough feedback, conflict, raising a mistake. Start with heart, make it safe, master your stories, STATE your path, AMPP listening, and finish with who does what by when. |
+
 ## Using these skills
 
 Each folder under `skills/` holds a `SKILL.md`. To use one:
