@@ -12,6 +12,7 @@ Based on Ros Atkins' *The Art of Explanation* (2023). Most everyday explaining h
 - `high-stakes-conversations`: if the message is tense, like pushback, a complaint or a mistake.
 - `explain-clearly`: for long, in-depth pieces.
 - `dynamic-explanation`: for interviews and Q&A.
+- `write-well`: for the wording of the sentences themselves.
 
 ---
 

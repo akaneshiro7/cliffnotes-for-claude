@@ -32,6 +32,12 @@ Each skill takes the core method of a book and rewrites it, in my own words, as 
 |---|---|
 | [`high-stakes-conversations`](skills/high-stakes-conversations/SKILL.md) | Pushback, tough feedback, conflict, raising a mistake. Start with heart, make it safe, master your stories, STATE your path, AMPP listening, and finish with who does what by when. |
 
+### 📓 *On Writing Well* by William Zinsser (6th ed., 2001)
+
+| Skill | Use it for |
+|---|---|
+| [`write-well`](skills/write-well/SKILL.md) | The prose itself, in any nonfiction: cut clutter and hedges, use active verbs and plain words, keep sentences flowing, stop on time, and rewrite. Includes a list of AI-writing habits to avoid and a revision checklist. |
+
 ## Which skill should I use?
 
 Each skill has one job. Several can work together on the same task.
@@ -44,8 +50,9 @@ Each skill has one job. Several can work together on the same task.
 | Know your material well enough to **answer anything live** (interviews, Q&A, meetings) | `dynamic-explanation` |
 | **Learn the truth** from a client, customer or stakeholder | `customer-conversations` |
 | Handle a **tense or emotional** conversation (pushback, feedback, conflict) | `high-stakes-conversations` |
+| Make the **sentences themselves** clear, lean and human, or line-edit a draft | `write-well` |
 
-Common combinations: a recommendation email uses `pyramid-principle` for the content and `quick-explanations` for the format. A big presentation uses `pyramid-principle` for the storyline and `explain-clearly` for the language and delivery. Pushing back on your MD uses `high-stakes-conversations` for how to say it and `pyramid-principle` for what you're proposing.
+Common combinations: a recommendation email uses `pyramid-principle` for the content and `quick-explanations` for the format. A big presentation uses `pyramid-principle` for the storyline and `explain-clearly` for the language and delivery. Pushing back on your MD uses `high-stakes-conversations` for how to say it and `pyramid-principle` for what you're proposing. Any written piece can finish with a `write-well` pass on the prose.
 
 ## Using these skills
 

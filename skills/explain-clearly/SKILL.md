@@ -11,6 +11,7 @@ A method for building prepared explanations, based on Ros Atkins' *The Art of Ex
 - `pyramid-principle`: the logical structure when the piece argues for a decision or recommendation (a memo, analysis or deck storyline). In that case, use pyramid structure in place of the story structures in Step 4, and use this skill for everything else.
 - `dynamic-explanation`: unscripted situations like interviews, meetings and Q&A.
 - `quick-explanations`: emails, messages and quick calls.
+- `write-well`: line-level prose: clutter, hedges, verbs, word choice and sentence flow. Use it for the detailed sentence edit in Step 6.
 
 **Match the effort to the job.** A three-paragraph explainer in chat gets the steps run quickly in your head. A keynote or a long report gets every step done explicitly. Either way, the ten tests below always apply.
 
